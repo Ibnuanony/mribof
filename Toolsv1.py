@@ -1,9 +1,5 @@
 #!/bin/sh
 
-#perulangan
-ulang='y'
-while [ $ulang = 'y' ];
-do
   #menu utama
   echo '1) install Red Hawk'
   echo '2) install cmbah-v2'
